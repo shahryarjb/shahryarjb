@@ -5,11 +5,12 @@ I do almost all of my work in Elixir and PHP, Swift and have built a number of o
 
 I recently created a new group called [mishka-group](https://github.com/mishka-group) which creates open source projects for Elixir and Phoenix, please follow me there If you've found some value in any of the stuff I've worked on.
 
+ 
+- 🔭 &nbsp; I’m currently working on a powerful Elixir and Phoenix open source cms ([MishkaCms](https://github.com/mishka-group/mishka-cms))
+- 🌱 &nbsp; I'm currently learning about high-scale, distributed systems
+- 🤔 &nbsp; I'm looking for help to find a job and immigrate to another country
+- 📫 &nbsp; How to reach me: shahryar.tbiz@gmail.com
 
-- 🔭 I’m currently working on a powerful Elixir and Phoenix open source cms ([MishkaCms](https://github.com/mishka-group/mishka-cms))
-- 🌱 I'm currently learning about high-scale, distributed systems
-- 🤔 I'm looking for help to find a job and immigrate to another country
-- 📫 How to reach me: shahryar.tbiz@gmail.com
 
 ### Links
 
