@@ -1,7 +1,13 @@
 ### Hey, I'm Shahryar Tavakkoli 👋
-I'm a software engineer and a freelancer, building high performance, resilient systems.
-I do almost all of my work in Elixir and PHP, Swift and have built a number of open source libraries to make it easier to build and test Application software.
+I'm a software engineer and a freelancer, building high-performance, resilient distributed systems. I do almost all of my work in Elixir, PHP, and Swift. I have built several libraries to make it easier to develop and test application software. I have extensive knowledge of Test-Driven development (TDD).
+My interests include creating fault-tolerant, distributed systems utilizing Elixir and OTP.
 
+---
+
+### Experience
+More than eight years of total experience as a programmer, four years as a professional Elixir and Swift full-stack developer, and two years as lead software engineer.
+
+--
 
 I recently created a new group called [mishka-group](https://github.com/mishka-group) which creates open source projects for Elixir and Phoenix, please follow me there If you've found some value in any of the stuff I've worked on.
 
@@ -11,10 +17,8 @@ I recently created a new group called [mishka-group](https://github.com/mishka-g
 - 🤔 &nbsp; I'm looking for help to find a job and immigrate to another country
 - 📫 &nbsp; How to reach me: shahryar.tbiz@gmail.com
 
-
 ### Links
 
-* [Blog](https://trangell.com)
-* [Twitter](https://twitter.com/tagargtw)
+* [Twitter](https://twitter.com/shahryar_tbiz)
 * [linkedin](https://www.linkedin.com/in/shahryar-tavakkoli/)
-
+* [Blog](https://trangell.com)
