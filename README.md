@@ -22,3 +22,4 @@ I recently created a new group called [mishka-group](https://github.com/mishka-g
 * [Twitter](https://twitter.com/shahryar_tbiz)
 * [linkedin](https://www.linkedin.com/in/shahryar-tavakkoli/)
 * [Blog](https://trangell.com)
+* [My Resume](https://jumpshare.com/v/40qPiwI7iiE3LCVOSB6b)
