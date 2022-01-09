@@ -7,7 +7,7 @@ My interests include creating fault-tolerant, distributed systems utilizing Elix
 ### Experience
 More than eight years of total experience as a programmer, four years as a professional Elixir and Swift full-stack developer, and two years as lead software engineer.
 
---
+---
 
 I recently created a new group called [mishka-group](https://github.com/mishka-group) which creates open source projects for Elixir and Phoenix, please follow me there If you've found some value in any of the stuff I've worked on.
 
