@@ -5,7 +5,7 @@ My interests include creating fault-tolerant, distributed systems utilizing Elix
 ---
 
 ### Experience
-More than eight years of total experience as a programmer, four years as a professional Elixir and Swift full-stack developer, and two years as lead software engineer.
+More than eight years of total experience as a programmer, four years as a professional Elixir and Swift full-stack developer.
 
 ---
 
