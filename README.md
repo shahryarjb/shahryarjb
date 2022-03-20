@@ -22,5 +22,5 @@ I recently created a new group called [mishka-group](https://github.com/mishka-g
 * [Twitter](https://twitter.com/shahryar_tbiz)
 * [linkedin](https://www.linkedin.com/in/shahryar-tavakkoli/)
 * [Blog](https://trangell.com)
-* [My Resume](https://github.com/shahryarjb/shahryarjb/files/8064023/Resume-Shahryar-Tavakkoli-revised.pdf)
+* [My Resume](https://github.com/shahryarjb/shahryarjb/files/8311098/Resume-Shahryar-Tavakkoli-revised.pdf)
 * [My Youtube](https://www.youtube.com/c/shahryartavakkoli)
