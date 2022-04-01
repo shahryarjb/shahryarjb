@@ -1,5 +1,5 @@
 ### Hey, I'm Shahryar Tavakkoli 👋
-I'm a software engineer and a freelancer, building high-performance, resilient distributed systems. I do almost all of my work in Elixir, PHP, and Swift. I have built several libraries to make it easier to develop and test application software. I have extensive knowledge of Test-Driven development (TDD).
+I'm a software engineer and a freelancer, building high-performance, resilient distributed systems. I do almost all of my work in Elixir, PHP, and Swift. I have built several libraries to make it easier to develop and test application software. I have extensive knowledge of Domain-driven design (DDD).
 My interests include creating fault-tolerant, distributed systems utilizing Elixir and OTP.
 
 ---
