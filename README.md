@@ -1,6 +1,6 @@
 ### Hey, I'm Shahryar Tavakkoli 👋
 
-I have been a software engineer for 9 years. My technical career focuses on Elixir, JavaScript, and Typescript. I have good experience with ReactJS, NextJS, and Phoenix. Elixir is a big part of my daily life for creating high-performance products and APIs. As a founder, I've managed a small group of 8 direct and 12 indirect individuals for almost two years. Our primary operations are in financial systems and the development of content and sales management systems. I am interested in Using Elixir OTP for creating fault-tolerant distributed systems and micro-frontend patterns.
+I have been a software engineer for 9 years. My technical career focuses on Elixir, JavaScript, and Typescript. I have good experience with ReactJS, NextJS, and Phoenix. Elixir is a big part of my daily life for creating high-performance products and APIs. As the founder, I've managed a small team of 8 direct people and a total of 12 indirect people for almost two years. Our primary operations are in financial systems and the development of content and sales management systems. I am interested in Using Elixir OTP for creating fault-tolerant distributed systems and micro-frontend patterns.
 
 
 ### Skills for recruiters:
@@ -30,5 +30,6 @@ I recently created a new group called [mishka-group](https://github.com/mishka-g
 * [Twitter](https://twitter.com/shahryar_tbiz)
 * [linkedin](https://www.linkedin.com/in/shahryar-tavakkoli/)
 * [Blog](https://trangell.com)
-* [My Resume](https://github.com/shahryarjb/shahryarjb/files/9696848/Resume-Shahryar-Tavakkoli-revised.pdf)
+* [My Resume](https://github.com/shahryarjb/shahryarjb/files/9696878/Resume-Shahryar-Tavakkoli-revised.pdf)
 * [My Youtube](https://www.youtube.com/c/shahryartavakkoli)
+
