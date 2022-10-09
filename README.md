@@ -1,6 +1,6 @@
 ### Hey, I'm Shahryar Tavakkoli 👋
 
-I have been a software engineer for 9 years. My technical career focuses on Elixir, JavaScript, and Typescript. I have good experience with ReactJS, NextJS, and Phoenix. Elixir is a big part of my daily life for creating high-performance products and APIs. As the founder, I've spent over two years overseeing a small group of 8 direct and a total of 12 indirect individuals. Our primary operations are in financial systems and the development of content and sales management systems. I am interested in Using Elixir OTP for creating fault-tolerant distributed systems and micro-frontend patterns.
+I have been a software engineer for 9 years. My technical career focuses on Elixir, JavaScript, and Typescript. I have good experience with ReactJS, NextJS, and Phoenix. Elixir is a big part of my daily life for creating high-performance products and APIs. As the founder, I've spent over two years overseeing a small group of 8 direct and a total of 12 indirect individuals. Our primary operations are in financial systems and the development of content and sales management systems. I am interested in using Elixir OTP for creating fault-tolerant distributed systems and micro-frontend patterns.
 
 
 ### Skills for recruiters:
@@ -9,9 +9,9 @@ I have been a software engineer for 9 years. My technical career focuses on Elix
 -	**Back-end:** Elixir (more than 4 years) – PHP (1 year)
 -	**Server-side:** Docker (2 years) – Kubernetes (1 year - CKAD)
 -	**Database and ORM:** Ecto with PostgreSQL (4 years) – Redis – Mnesia (Erlang runtime ETS)
--	**Soft skills:** Interested to be Open-Source Contributor, Team manager and Leader, Teamwork spirit, Problem solving
+-	**Soft skills:** Cross-functional collaboration and communication, management and leadership, teamwork spirit, Problem-solving.
 -	**Mobile:** Familiar with Swift (SwiftUI) - Familiar with React Native - Familiar with Progressive Web Apps (PWA)
--	**Pattern:** Domain-driven Design (DDD)
+-	**Interests:** Domain-driven Design (DDD), Distributed System.
 -	**Test:** Unit testing, Jest and React Testing Library
 
 
@@ -30,6 +30,5 @@ I recently created a new group called [mishka-group](https://github.com/mishka-g
 * [Twitter](https://twitter.com/shahryar_tbiz)
 * [linkedin](https://www.linkedin.com/in/shahryar-tavakkoli/)
 * [Blog](https://trangell.com)
-* [My Resume](https://github.com/shahryarjb/shahryarjb/files/9696878/Resume-Shahryar-Tavakkoli-revised.pdf)
+* [My Resume](https://github.com/shahryarjb/shahryarjb/files/9741077/Resume-Shahryar-Tavakkoli-NR.pdf)
 * [My Youtube](https://www.youtube.com/c/shahryartavakkoli)
-
