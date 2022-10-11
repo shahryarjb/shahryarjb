@@ -30,5 +30,5 @@ I recently created a new group called [mishka-group](https://github.com/mishka-g
 * [Twitter](https://twitter.com/shahryar_tbiz)
 * [linkedin](https://www.linkedin.com/in/shahryar-tavakkoli/)
 * [Blog](https://trangell.com)
-* [My Resume](https://github.com/shahryarjb/shahryarjb/files/9741077/Resume-Shahryar-Tavakkoli-NR.pdf)
+* [My Resume](https://github.com/shahryarjb/shahryarjb/files/9751719/Resume-Shahryar-Tavakkoli-NR.pdf)
 * [My Youtube](https://www.youtube.com/c/shahryartavakkoli)
