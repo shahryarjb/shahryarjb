@@ -1,14 +1,14 @@
 ### Hey, I'm Shahryar Tavakkoli 👋
 
-I have been a software engineer for 9 years. My professional career focuses on Elixir, JavaScript, and Typescript. I have excellent experience with ReactJS, NextJS, and Phoenix. Elixir is a big part of my daily life for creating high-performance products and APIs. As the founder, I've spent over two years overseeing a small group of 8 direct and a total of 12 indirect individuals. Our primary operations are in financial systems and the development of content and sales management systems. I am interested in using Elixir OTP for creating fault-tolerant distributed systems and micro-frontend patterns.
+I have been a software engineer for 10 years. My professional career focuses on Elixir, JavaScript, and Typescript. I have excellent experience with ReactJS, NextJS, and Phoenix. Elixir is a big part of my daily life for creating high-performance products and APIs. As the founder, I've spent over two years overseeing a small group of 8 direct and a total of 12 indirect individuals. Our primary operations are in financial systems and the development of content and sales management systems. I am interested in using Elixir OTP for creating fault-tolerant distributed systems and micro-frontend patterns.
 
 
 ### Skills for recruiters:
 
--	**Front-end:** NextJS (1 year) – ReactJS (3 years) – Bootstrap (6 years) – Redux – TypeScript - Phoenix LiveView (2 years +)
--	**Back-end:** Elixir (more than 4 years) – PHP (1 year)
--	**Server-side:** Docker (2 years) – Kubernetes (1 year - CKAD)
--	**Database and ORM:** Ecto with PostgreSQL (4 years) – Redis – Mnesia (Erlang runtime ETS)
+-	**Front-end:** NextJS – ReactJS – Bootstrap – Redux – TypeScript - Phoenix LiveView - Tailwind CSS
+-	**Back-end:** Elixir/Phoenix (more than 5 years) – PHP (1 year)
+-	**Server-side:** Docker – Kubernetes (CKAD)
+-	**Database and ORM:** Ecto with PostgreSQL – Redis – Mnesia (Erlang runtime ETS)
 -	**Soft skills:** Cross-functional collaboration and communication, management and leadership, teamwork spirit, Problem-solving.
 -	**Mobile:** Familiar with Swift (SwiftUI) - Familiar with React Native - Familiar with Progressive Web Apps (PWA)
 -	**Interests:** Domain-driven Design (DDD), Distributed System.
