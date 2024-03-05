@@ -8,11 +8,12 @@ I have been a software engineer for 10 years. My professional career focuses on 
 -	**Front-end:** Next.js – ReactJS – Bootstrap – Redux – TypeScript – Phoenix LiveView - Tailwind CSS – Progressive Web Apps (PWA)
 -	**Back-end:** Elixir/Phoenix
 -	**Server-side:** Docker – Kubernetes (CKAD)
--	**Database and ORM:** Ecto with PostgreSQL – Redis – Mnesia (Erlang runtime ETS)
+-	**Database and ORM:** Ecto with PostgreSQL – Redis – Mnesia (Erlang runtime ETS) - Familiar with MongoDB
 -	**Soft skills:** Cross-functional collaboration and communication, management and leadership, teamwork spirit, Problem-solving.
 -	**Mobile:** Familiar with Swift (SwiftUI) – Familiar with React Native
 -	**Interests:** Domain-driven Design (DDD), Distributed System.
 -	**Test:** Unit testing, Jest and React Testing Library
+-	**Security:** OWASP
 
 
 ---
