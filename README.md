@@ -1,6 +1,6 @@
 ### Hey, I'm Shahryar Tavakkoli 👋
 
-I have been a software engineer for 10 years. My professional career focuses on **Elixir**, **JavaScript**, and **Typescript**. I have excellent experience with **ReactJS**, **Next.js**, and Phoenix. Elixir is a big part of my daily life for creating high-performance products and APIs. As the founder, I've spent over two years overseeing a small group of 8 direct and a total of 12 indirect individuals. Our primary operations are in financial systems and the development of content and sales management systems. I am interested in using Elixir OTP for creating fault-tolerant distributed systems and micro-frontend patterns.
+I have been a software engineer for 10 years. My professional career focuses on **Elixir**, **JavaScript**, and **Typescript**. I have excellent experience with **ReactJS**, **Next.js**, and Phoenix. Elixir is a big part of my daily life for creating high-performance products and APIs. As the founder, my primary operations are in financial systems and the development of content and sales management systems. I am interested in using Elixir OTP for creating fault-tolerant distributed systems and micro-frontend patterns.
 
 
 ### Skills for recruiters:
