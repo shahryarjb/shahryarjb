@@ -31,8 +31,7 @@ I recently created a new group called [mishka-group](https://github.com/mishka-g
 * [Twitter](https://twitter.com/shahryar_tbiz)
 * [LinkedIn](https://www.linkedin.com/in/shahryar-tavakkoli/)
 * [Blog](https://trangell.com)
-* [My Resume](https://github.com/shahryarjb/shahryarjb/files/10964786/shahryar.s.Resume.pdf)
-* [My complete CV](https://github.com/shahryarjb/shahryarjb/files/10964780/Resume-Shahryar-Tavakkoli-S-NR.pdf)
+* [My Resume](https://github.com/shahryarjb/shahryarjb/files/14635286/Shahryar-resume-elixir.backend-developer-full-stack.pdf)
 * [My YouTube](https://www.youtube.com/c/shahryartavakkoli)
 
 
