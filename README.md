@@ -21,7 +21,7 @@ I have been a software engineer for 10 years. My professional career focuses on 
 I recently created a new group called [mishka-group](https://github.com/mishka-group) which creates open source projects for Elixir and Phoenix, please follow me there If you've found some value in any of the stuff I've worked on.
 
  
-- 🔭 &nbsp; I’m currently working on a powerful Elixir and Phoenix open source CMS ([MishkaCms](https://github.com/mishka-group/mishka-cms))
+- 🔭 &nbsp; I’m currently working on a powerful Elixir and Phoenix open source components and UI kit library  ([Mishka Chelekom](https://github.com/mishka-group/mishka_chelekom))
 - 🌱 &nbsp; I'm currently learning about high-scale, distributed systems
 - 🤔 &nbsp; I'm looking for help to find a job and immigrate to another country
 - 📫 &nbsp; How to reach me: shahryar.tbiz@gmail.com
