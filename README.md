@@ -22,7 +22,7 @@ I recently created a new group called [mishka-group](https://github.com/mishka-g
 
  
 - 🔭 &nbsp; I’m currently working on a powerful Elixir and Phoenix open source components and UI kit library  ([Mishka Chelekom](https://github.com/mishka-group/mishka_chelekom))
-- 🌱 &nbsp; I'm currently learning about high-scale, distributed systems
+- 🌱 &nbsp; I'm currently learning about high-scale, distributed systems and Rust language
 - 🤔 &nbsp; I'm looking for help to find a job and immigrate to another country
 - 📫 &nbsp; How to reach me: shahryar.tbiz@gmail.com
 
@@ -30,7 +30,7 @@ I recently created a new group called [mishka-group](https://github.com/mishka-g
 
 * [Twitter](https://twitter.com/shahryar_tbiz)
 * [LinkedIn](https://www.linkedin.com/in/shahryar-tavakkoli/)
-* [Blog](https://mishka.life)
+* [Blog](https://mishka.tools/blog)
 * [My Resume](https://github.com/shahryarjb/shahryarjb/files/14635286/Shahryar-resume-elixir.backend-developer-full-stack.pdf)
 * [My YouTube](https://www.youtube.com/c/shahryartavakkoli)
 
