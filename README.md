@@ -1,10 +1,11 @@
-### Hey, I'm Shahryar Tavakkoli 👋
+### Hey, I'm Shahryar Tavakkoli 👋  [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/mishka-group)
 
 I have been a software engineer for 10 years. My professional career focuses on **Elixir**, **JavaScript**, and **Typescript**. I have excellent experience with **ReactJS**, **Next.js**, and Phoenix. Elixir is a big part of my daily life for creating high-performance products and APIs. As the founder, my primary operations are in financial systems and the development of content and sales management systems. I am interested in using Elixir OTP for creating fault-tolerant distributed systems and micro-frontend patterns.
 
 <a href="https://www.buymeacoffee.com/mishkagroup" target="_blank">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy us coffee&emoji=☕&slug=mishkagroup&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" height="50" width="210">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=mishkagroup&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" height="50" width="210">
 </a>
+
 
 ### Skills for recruiters:
 
