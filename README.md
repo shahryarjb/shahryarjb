@@ -10,7 +10,7 @@ I have been a software engineer for 10 years. My professional career focuses on 
 ### Skills for recruiters:
 
 -	**Front-end:** Next.js – ReactJS – Bootstrap – Redux – TypeScript – Phoenix LiveView - Tailwind CSS – Progressive Web Apps (PWA)
--	**Back-end:** Elixir/Phoenix
+-	**Back-end:** Elixir/Phoenix - Rust
 -	**Server-side:** Docker – Kubernetes (CKAD)
 -	**Database and ORM:** Ecto with PostgreSQL – Redis – Mnesia (Erlang runtime ETS) - Familiar with MongoDB
 -	**Soft skills:** Cross-functional collaboration and communication, management and leadership, teamwork spirit, Problem-solving.
